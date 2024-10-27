@@ -1,1 +1,5 @@
 __pycache__/
+kill_ports.sh
+redistest.py
+venv
+.venv
